@@ -1,0 +1,3 @@
+[submodule "clickme"]
+	path = clickme
+	url = https://github.com/dwijpr/clickme.git
